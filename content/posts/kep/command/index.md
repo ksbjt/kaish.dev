@@ -1,6 +1,6 @@
 ---
 date: 2025-11-26T16:27:27+08:00
-draft: true
+draft: false
 title: 【开水服】指令帮助
 tags:
   - 开水服
