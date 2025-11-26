@@ -39,3 +39,5 @@ menu:
     - name: Archive
       url: archives
       weight: 2
+    - name: Tags
+      url: tags

@@ -164,12 +164,25 @@
               "icon": "lucide-list",
               "title": "kaishuifu 的大纲"
             }
+          },
+          {
+            "id": "bd430fbfb8037e81",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "kaishuifu.md"
+              },
+              "icon": "lucide-info",
+              "title": "kaishuifu的笔记属性"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -185,7 +198,7 @@
   },
   "active": "9e17011d65b93c2c",
   "lastOpenFiles": [
-    "hello.md",
+    "Test.md",
     "kaishuifu.md"
   ]
 }
