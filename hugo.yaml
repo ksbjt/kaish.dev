@@ -1,0 +1,37 @@
+baseURL: "https://kaish.dev/"
+languageCode: "en-us"
+title: "Kaishui's Page"
+
+pagination:
+  pagerSize: 5
+
+theme: ["PaperMod"]
+
+params:
+  defaultTheme: auto
+  disableThemeToggle: true
+
+  homeInfoParams:
+    Title: Hi there wave
+    Content: Can be Info, links, about...
+
+  socialIcons:
+    - name: "GitHub"
+      url: "https://github.com/ksbjt"
+    - name: "Steam"
+      url: "https://steamcommunity.com/profiles/76561199267457975"
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+menu:
+  main:
+    - name: Archive
+      url: archives
+      weight: 5
+    - name: Search
+      url: "/search/"
+      weight: 5
