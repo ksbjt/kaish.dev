@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kep/command/index.md",
+                "file": "kep/help.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "help"
             }
           }
         ]
@@ -171,10 +171,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "kep/command/index.md"
+                "file": "kep/help.md"
               },
               "icon": "lucide-info",
-              "title": "index的笔记属性"
+              "title": "help的笔记属性"
             }
           }
         ],
@@ -195,8 +195,9 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "9e17011d65b93c2c",
+  "active": "73eb11533aa4de2c",
   "lastOpenFiles": [
+    "kep/command/index.md",
     "kep/command/jump_menu.png",
     "kep/command/屏幕截图 2025-11-26 172807.png",
     "kep/command/adminroom_menu.png",
@@ -207,9 +208,7 @@
     "kep/command/屏幕截图 2025-11-26 172844.png",
     "kep/command/tp_menu.png",
     "kep/command/屏幕截图 2025-11-26 172854.png",
-    "kep/command/radio_menu.png",
     "kep/help.md",
-    "kep/command/index.md",
     "kep/command.md",
     "kep/command",
     "kep/新建文件夹",

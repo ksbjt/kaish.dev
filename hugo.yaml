@@ -36,13 +36,13 @@ outputs:
 
 menu:
   main:
-    - name: Search
+    - name: "搜索文章"
       url: "/search/"
       weight: 1
-    - name: Archive
+    - name: "列出文章"
       url: archives
       weight: 2
-    - name: Tags
+    - name: "文章标签"
       url: tags
 
 markup:

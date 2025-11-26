@@ -33,7 +33,7 @@
 &lt;img alt=&#34;地图&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/posts/kep/command/yd_menu.png&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>【开水服】CS2 僵尸逃跑</title>
+      <title>【开水服】CS2 僵尸逃跑 概述</title>
       <link>http://localhost:1313/posts/kep/help/</link>
       <pubDate>Wed, 26 Nov 2025 14:50:17 +0800</pubDate>
       <guid>http://localhost:1313/posts/kep/help/</guid>
@@ -70,13 +70,6 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;服主 QQ：248546704&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Test</title>
-      <link>http://localhost:1313/posts/test/</link>
-      <pubDate>Wed, 26 Nov 2025 12:51:57 +0800</pubDate>
-      <guid>http://localhost:1313/posts/test/</guid>
-      <description>&lt;p&gt;测试文章.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

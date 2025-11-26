@@ -17,11 +17,23 @@
 &lt;p&gt;&lt;a href=&#34;https://docs.qq.com/sheet/DSWNsVGtRVExvdE56?tab=BB08J2&#34;&gt;https://docs.qq.com/sheet/DSWNsVGtRVExvdE56?tab=BB08J2&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;常用的指令截图&#34;&gt;常用的指令截图&lt;/h3&gt;
-&lt;p&gt;&lt;img alt=&#34;地图&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/posts/kep/command/radio.png&#34;&gt;&lt;/p&gt;
-&lt;img src=&#34;radio.png&#34; width=&#34;250&#34;&gt;</description>
+&lt;p&gt;无线电菜单
+&lt;img alt=&#34;地图&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/posts/kep/command/radio_menu.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;查找调关房菜单
+&lt;img alt=&#34;地图&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/posts/kep/command/adminroom_menu.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Bot菜单
+&lt;img alt=&#34;地图&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/posts/kep/command/bot_menu.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;初始武器菜单
+&lt;img alt=&#34;地图&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/posts/kep/command/gun_menu.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;跳跃参数菜单
+&lt;img alt=&#34;地图&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/posts/kep/command/jump_menu.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;传送菜单
+&lt;img alt=&#34;地图&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/posts/kep/command/tp_menu.png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;换图菜单
+&lt;img alt=&#34;地图&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/posts/kep/command/yd_menu.png&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>【开水服】CS2 僵尸逃跑</title>
+      <title>【开水服】CS2 僵尸逃跑 概述</title>
       <link>http://localhost:1313/posts/kep/help/</link>
       <pubDate>Wed, 26 Nov 2025 14:50:17 +0800</pubDate>
       <guid>http://localhost:1313/posts/kep/help/</guid>
@@ -58,13 +70,6 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;服主 QQ：248546704&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Test</title>
-      <link>http://localhost:1313/posts/test/</link>
-      <pubDate>Wed, 26 Nov 2025 12:51:57 +0800</pubDate>
-      <guid>http://localhost:1313/posts/test/</guid>
-      <description>&lt;p&gt;测试文章.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
