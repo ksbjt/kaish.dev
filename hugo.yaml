@@ -11,6 +11,9 @@ params:
   defaultTheme: auto
   disableThemeToggle: true
 
+  assets:
+    enable: true
+
   homeInfoParams:
     Title: "Kaishui's Blog"
     Content: "世上一定有另外一个我, 过着我想要的生活."
@@ -41,3 +44,8 @@ menu:
       weight: 2
     - name: Tags
       url: tags
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

@@ -6,17 +6,30 @@
     <description>Recent content in Posts on 开水的博客</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Nov 2025 14:50:17 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 26 Nov 2025 16:27:27 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>【开水服】指令帮助</title>
+      <link>http://localhost:1313/posts/kep/command/</link>
+      <pubDate>Wed, 26 Nov 2025 16:27:27 +0800</pubDate>
+      <guid>http://localhost:1313/posts/kep/command/</guid>
+      <description>&lt;h3 id=&#34;指令合集&#34;&gt;指令合集&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://docs.qq.com/sheet/DSWNsVGtRVExvdE56?tab=BB08J2&#34;&gt;https://docs.qq.com/sheet/DSWNsVGtRVExvdE56?tab=BB08J2&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;常用的指令截图&#34;&gt;常用的指令截图&lt;/h3&gt;
+&lt;p&gt;&lt;img alt=&#34;地图&#34; loading=&#34;lazy&#34; src=&#34;http://localhost:1313/posts/kep/command/radio.png&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;radio.png&#34; width=&#34;250&#34;&gt;</description>
+    </item>
+    <item>
       <title>【开水服】CS2 僵尸逃跑</title>
-      <link>http://localhost:1313/posts/kaishuifu/</link>
+      <link>http://localhost:1313/posts/kep/help/</link>
       <pubDate>Wed, 26 Nov 2025 14:50:17 +0800</pubDate>
-      <guid>http://localhost:1313/posts/kaishuifu/</guid>
-      <description>&lt;h2 id=&#34;问-cs2-还有在开服吗&#34;&gt;问: CS2 还有在开服吗?&lt;/h2&gt;
+      <guid>http://localhost:1313/posts/kep/help/</guid>
+      <description>&lt;h3 id=&#34;问-cs2-还有在开服吗&#34;&gt;问: CS2 还有在开服吗?&lt;/h3&gt;
 &lt;p&gt;自从 CSGO 转换成 CS2 后,  开水服仍然继续稳定运行.&lt;br&gt;
 从 &lt;strong&gt;2024-07-20&lt;/strong&gt; 起, 已稳定运行 494 天,  已有 &lt;strong&gt;300&lt;/strong&gt; 多位玩家加入我们哟.&lt;/p&gt;
-&lt;h2 id=&#34;问-开水服是干嘛的&#34;&gt;问: 开水服是干嘛的?&lt;/h2&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;问-开水服是干嘛的&#34;&gt;问: 开水服是干嘛的?&lt;/h3&gt;
 &lt;p&gt;主要供玩家进行训练 &lt;strong&gt;跳刀&lt;/strong&gt;、&lt;strong&gt;弹幕&lt;/strong&gt; 等其他地图.&lt;/p&gt;
 &lt;p&gt;您也可以进行 &lt;strong&gt;跑图&lt;/strong&gt;, 熟悉地图中的触发、路线、守点等.&lt;/p&gt;
 &lt;p&gt;开水服主打对玩家的 &lt;strong&gt;游玩体验&lt;/strong&gt;, 您可在 B站 搜索 &lt;strong&gt;开水服&lt;/strong&gt;, 均有大家发布的训练跑图视频.&lt;/p&gt;
@@ -27,7 +40,11 @@
 &lt;li&gt;&lt;a href=&#34;https://search.bilibili.com/all?keyword=%E5%BC%80%E6%B0%B4%E6%9C%8D&amp;amp;from_source=webtop_search&amp;amp;spm_id_from=333.788&#34;&gt;搜索 B站 相关视频&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;问-收费吗&#34;&gt;问: 收费吗?&lt;/h2&gt;
+&lt;h3 id=&#34;有哪些训练地图&#34;&gt;有哪些训练地图?&lt;/h3&gt;
+&lt;p&gt;服务器有训练脚本的地图都在此合集当中
+&lt;a href=&#34;https://steamcommunity.com/sharedfiles/filedetails/?id=3292908214&#34;&gt;https://steamcommunity.com/sharedfiles/filedetails/?id=3292908214&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;问-收费吗&#34;&gt;问: 收费吗?&lt;/h3&gt;
 &lt;p&gt;由于服务器月租高昂的费用, 开水还只是个大学生, 所以采用 &lt;strong&gt;赞助&lt;/strong&gt; 的形式.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;
@@ -43,10 +60,10 @@
 &lt;p&gt;&lt;strong&gt;服主 QQ：248546704&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Hello World</title>
-      <link>http://localhost:1313/posts/hello/</link>
+      <title>Test</title>
+      <link>http://localhost:1313/posts/test/</link>
       <pubDate>Wed, 26 Nov 2025 12:51:57 +0800</pubDate>
-      <guid>http://localhost:1313/posts/hello/</guid>
+      <guid>http://localhost:1313/posts/test/</guid>
       <description>&lt;p&gt;测试文章.&lt;/p&gt;</description>
     </item>
   </channel>

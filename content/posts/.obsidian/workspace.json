@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kaishuifu.md",
-                "mode": "source",
-                "source": false
+                "file": "kep/command/index.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "kaishuifu"
+              "title": "index"
             }
           }
         ]
@@ -171,10 +171,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "kaishuifu.md"
+                "file": "kep/command/index.md"
               },
               "icon": "lucide-info",
-              "title": "kaishuifu的笔记属性"
+              "title": "index的笔记属性"
             }
           }
         ],
@@ -182,8 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -198,7 +197,25 @@
   },
   "active": "9e17011d65b93c2c",
   "lastOpenFiles": [
+    "kep/command/jump_menu.png",
+    "kep/command/屏幕截图 2025-11-26 172807.png",
+    "kep/command/adminroom_menu.png",
+    "kep/command/屏幕截图 2025-11-26 172743.png",
+    "kep/command/yd_menu.png",
+    "kep/command/屏幕截图 2025-11-26 172833.png",
+    "kep/command/bot_menu.png",
+    "kep/command/屏幕截图 2025-11-26 172844.png",
+    "kep/command/tp_menu.png",
+    "kep/command/屏幕截图 2025-11-26 172854.png",
+    "kep/command/radio_menu.png",
+    "kep/help.md",
+    "kep/command/index.md",
+    "kep/command.md",
+    "kep/command",
+    "kep/新建文件夹",
     "Test.md",
-    "kaishuifu.md"
+    "kaishuifu.md",
+    "kep",
+    "新建文件夹"
   ]
 }
