@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>开水服 on 开水的博客</title>
-    <link>http://localhost:1313/tags/%E5%BC%80%E6%B0%B4%E6%9C%8D/</link>
-    <description>Recent content in 开水服 on 开水的博客</description>
+    <title>Kep on 开水的博客</title>
+    <link>http://localhost:1313/tags/kep/</link>
+    <description>Recent content in Kep on 开水的博客</description>
     <generator>Hugo -- 0.152.2</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 26 Nov 2025 16:27:27 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/%E5%BC%80%E6%B0%B4%E6%9C%8D/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/kep/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>【开水服】CS2 僵尸逃跑 概述</title>
       <link>http://localhost:1313/posts/kep/help/</link>

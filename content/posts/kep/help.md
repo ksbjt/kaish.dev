@@ -3,7 +3,7 @@ date: 2025-11-26T14:50:17+08:00
 draft: false
 title: 【开水服】CS2 僵尸逃跑 概述
 tags:
-  - 开水服
+  - kep
 weight: "-1"
 ---
 ### 问: CS2 还有在开服吗?
