@@ -1,6 +1,6 @@
 baseURL: "https://kaish.dev/"
 languageCode: "en-us"
-title: "Kaishui's Page"
+title: "开水的博客"
 
 pagination:
   pagerSize: 5
@@ -12,14 +12,18 @@ params:
   disableThemeToggle: true
 
   homeInfoParams:
-    Title: Hi there wave
-    Content: Can be Info, links, about...
+    Title: "Kaishui's Blog"
+    Content: "世上一定有另外一个我, 过着我想要的生活."
 
   socialIcons:
-    - name: "GitHub"
+    - name: "github"
       url: "https://github.com/ksbjt"
-    - name: "Steam"
+    - name: "steam"
       url: "https://steamcommunity.com/profiles/76561199267457975"
+    - name: "neteasecloudmusic"
+      url: "https://music.163.com/#/my/m/music/playlist?id=5028688879"
+    - name: "mixcloud"
+      url: "https://openlist.kaya.ink"
 
 outputs:
   home:
@@ -29,9 +33,9 @@ outputs:
 
 menu:
   main:
-    - name: Archive
-      url: archives
-      weight: 5
     - name: Search
       url: "/search/"
-      weight: 5
+      weight: 1
+    - name: Archive
+      url: archives
+      weight: 2
