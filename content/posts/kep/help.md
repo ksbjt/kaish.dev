@@ -1,7 +1,7 @@
 ---
 date: 2025-11-26T14:50:17+08:00
 draft: false
-title: 【开水服】CS2 僵尸逃跑 概述
+title: 【开水服】CS2 ZE僵尸逃跑
 tags:
   - kep
 weight: "-1"

@@ -1,6 +1,7 @@
 baseURL: "https://kaish.dev/"
 languageCode: "en-us"
 title: "开水的博客"
+enableGitInfo: true
 
 pagination:
   pagerSize: 5
@@ -11,8 +12,9 @@ params:
   defaultTheme: auto
   disableThemeToggle: true
 
-  assets:
-    enable: true
+  showDates: true
+  showLastMod: true
+  dateFormat: "2006-01-02 15:04:05"
 
   homeInfoParams:
     Title: "Kaishui's Blog"
@@ -33,20 +35,3 @@ outputs:
     - HTML
     - RSS
     - JSON
-
-menu:
-  main:
-    - name: "搜索文章"
-      url: "/search/"
-      weight: 1
-    - name: "列出文章"
-      url: "/archives/"
-      weight: 2
-    - name: "搜索标签"
-      url: "/tags/"
-      weight: 3
-
-markup:
-  goldmark:
-    renderer:
-      unsafe: true
