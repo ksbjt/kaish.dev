@@ -1,27 +1,28 @@
-baseURL: "https://kaish.dev/"
-languageCode: "en-us"
-title: "开水的博客"
-enableGitInfo: true
+baseURL: "https://kaish.dev/" # 网站的根 URL
+languageCode: "en-us" # 网站语言
+title: "开水的博客" # 网站标题
+
+enableGitInfo: true # 启用 Git 信息, 用于自动获取文章最后更新时间（Lastmod）
 
 pagination:
-  pagerSize: 5
+  pagerSize: 5 # 每页显示多少篇文章
 
-theme: ["PaperMod"]
+theme: ["PaperMod"] # 使用 PaperMod 主题
 
 params:
-  defaultTheme: auto
-  disableThemeToggle: true
+  defaultTheme: auto # 默认主题模式：auto=跟随系统, light=白天, dark=黑暗
+  disableThemeToggle: true # 是否禁用主题切换按钮（true=隐藏按钮）
 
-  showDates: true
-  showLastMod: true
-  useLastMod: true
-  dateFormat: "2006-01-02 15:04:05"
+  showDates: true # 是否显示文章发布时间（date）
+  showLastMod: true # 是否显示文章更新时间（lastmod）
+  useLastMod: true # 若 Front Matter 无 lastmod, 则自动使用 Git 最后提交时间
+  dateFormat: "2006-01-02" # 日期显示格式（Go 模板格式, 此处为 YYYY-MM-DD）
 
-  homeInfoParams:
-    Title: "Kaishui's Blog"
-    Content: "世上一定有另外一个我, 过着我想要的生活."
+  homeInfoParams: # 首页显示的信息（PaperMod 的 HomeInfo 区块）
+    Title: "Kaishui's Blog" # 首页标题
+    Content: "世上一定有另外一个我, 过着我想要的生活." # 首页描述文本
 
-  socialIcons:
+  socialIcons: # 主页底部显示的社交图标
     - name: "github"
       url: "https://github.com/ksbjt"
     - name: "steam"
@@ -33,6 +34,6 @@ params:
 
 outputs:
   home:
-    - HTML
-    - RSS
-    - JSON
+    - HTML # 首页生成 HTML 页面
+    - RSS # 首页生成 RSS（PaperMod 搜索功能依赖）
+    - JSON # 首页生成 JSON（PaperMod 站内搜索使用）
