@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Posts on 开水的博客</title><link>https://kaish.dev/posts/</link><description>Recent content in Posts on 开水的博客</description><generator>Hugo -- 0.152.2</generator><language>en-us</language><lastBuildDate>Fri, 28 Nov 2025 00:41:19 +0800</lastBuildDate><atom:link href="https://kaish.dev/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>【开水服】CS2 僵尸逃跑</title><link>https://kaish.dev/posts/kep/help/</link><pubDate>Wed, 26 Nov 2025 14:50:17 +0800</pubDate><guid>https://kaish.dev/posts/kep/help/</guid><description>&lt;h3 id="问-cs2-还有在开服吗"&gt;问: CS2 还有在开服吗?&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Posts on 开水的博客</title><link>https://kaish.dev/posts/</link><description>Recent content in Posts on 开水的博客</description><generator>Hugo -- 0.152.2</generator><language>en-us</language><lastBuildDate>Fri, 28 Nov 2025 00:56:58 +0800</lastBuildDate><atom:link href="https://kaish.dev/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>【开水服】CS2 僵尸逃跑</title><link>https://kaish.dev/posts/kep/help/</link><pubDate>Wed, 26 Nov 2025 14:50:17 +0800</pubDate><guid>https://kaish.dev/posts/kep/help/</guid><description>&lt;h3 id="问-cs2-还有在开服吗"&gt;问: CS2 还有在开服吗?&lt;/h3&gt;
 &lt;p&gt;自从 CSGO 转换成 CS2 后, 开水服仍然继续稳定运行.&lt;br&gt;
 从 &lt;strong&gt;2024-07-20&lt;/strong&gt; 起, 已稳定运行 495 天, 已有 &lt;strong&gt;300&lt;/strong&gt; 多位玩家加入我们.&lt;/p&gt;
 &lt;hr&gt;
@@ -30,21 +30,34 @@
 &lt;p&gt;谢谢大家支持开水❥(^_-)&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;服主 QQ：248546704&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>【开水服】指令预览</title><link>https://kaish.dev/posts/kep/command/</link><pubDate>Wed, 26 Nov 2025 16:27:27 +0800</pubDate><guid>https://kaish.dev/posts/kep/command/</guid><description>&lt;h3 id="指令合集"&gt;指令合集&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;服主 QQ：248546704&lt;/strong&gt;&lt;/p&gt;</description></item><item><title>【开水服】QQ群机器人</title><link>https://kaish.dev/posts/kep/qqbot/</link><pubDate>Fri, 28 Nov 2025 00:56:58 +0800</pubDate><guid>https://kaish.dev/posts/kep/qqbot/</guid><description>&lt;h3 id="描述"&gt;描述&lt;/h3&gt;
+&lt;p&gt;为了方便玩家进入服务器时, 与正在游玩的玩家撞到.&lt;br&gt;
+所以写了个QQ机器人, 方便玩家直接选择空闲服务器进入.&lt;br&gt;
+基于 &lt;a href="https://bot.q.qq.com/wiki/develop/pythonsdk/"&gt;Python SDK&lt;/a&gt; 编写, 不过官方不支持主动消息, 用野鸡怕被封.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id="预览"&gt;预览&lt;/h3&gt;
+&lt;p&gt;机器人菜单
+&lt;img alt="Image" loading="lazy" src="https://kaish.dev/posts/kep/qqbot/menu.png"&gt;&lt;/p&gt;
+&lt;p&gt;查询服务器状态
+&lt;img alt="Image" loading="lazy" src="https://kaish.dev/posts/kep/qqbot/query_server.png"&gt;&lt;/p&gt;
+&lt;p&gt;查询今天玩家的时长排名
+&lt;img alt="Image" loading="lazy" src="https://kaish.dev/posts/kep/qqbot/today_top.png"&gt;&lt;/p&gt;
+&lt;p&gt;查询您的游玩信息
+&lt;img alt="Image" loading="lazy" src="https://kaish.dev/posts/kep/qqbot/playerinfo.png"&gt;&lt;/p&gt;</description></item><item><title>【开水服】指令预览</title><link>https://kaish.dev/posts/kep/command/</link><pubDate>Wed, 26 Nov 2025 16:27:27 +0800</pubDate><guid>https://kaish.dev/posts/kep/command/</guid><description>&lt;h3 id="指令合集"&gt;指令合集&lt;/h3&gt;
 &lt;p&gt;&lt;a href="https://docs.qq.com/sheet/DSWNsVGtRVExvdE56?tab=BB08J2"&gt;https://docs.qq.com/sheet/DSWNsVGtRVExvdE56?tab=BB08J2&lt;/a&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id="常用的指令截图"&gt;常用的指令截图&lt;/h3&gt;
 &lt;p&gt;无线电菜单
-&lt;img alt="地图" loading="lazy" src="https://kaish.dev/posts/kep/command/radio_menu.png"&gt;&lt;/p&gt;
+&lt;img alt="Image" loading="lazy" src="https://kaish.dev/posts/kep/command/radio_menu.png"&gt;&lt;/p&gt;
 &lt;p&gt;查找调关房菜单
-&lt;img alt="地图" loading="lazy" src="https://kaish.dev/posts/kep/command/adminroom_menu.png"&gt;&lt;/p&gt;
+&lt;img alt="Image" loading="lazy" src="https://kaish.dev/posts/kep/command/adminroom_menu.png"&gt;&lt;/p&gt;
 &lt;p&gt;Bot菜单
-&lt;img alt="地图" loading="lazy" src="https://kaish.dev/posts/kep/command/bot_menu.png"&gt;&lt;/p&gt;
+&lt;img alt="Image" loading="lazy" src="https://kaish.dev/posts/kep/command/bot_menu.png"&gt;&lt;/p&gt;
 &lt;p&gt;初始武器菜单
-&lt;img alt="地图" loading="lazy" src="https://kaish.dev/posts/kep/command/gun_menu.png"&gt;&lt;/p&gt;
+&lt;img alt="Image" loading="lazy" src="https://kaish.dev/posts/kep/command/gun_menu.png"&gt;&lt;/p&gt;
 &lt;p&gt;跳跃参数菜单
-&lt;img alt="地图" loading="lazy" src="https://kaish.dev/posts/kep/command/jump_menu.png"&gt;&lt;/p&gt;
+&lt;img alt="Image" loading="lazy" src="https://kaish.dev/posts/kep/command/jump_menu.png"&gt;&lt;/p&gt;
 &lt;p&gt;传送菜单
-&lt;img alt="地图" loading="lazy" src="https://kaish.dev/posts/kep/command/tp_menu.png"&gt;&lt;/p&gt;
+&lt;img alt="Image" loading="lazy" src="https://kaish.dev/posts/kep/command/tp_menu.png"&gt;&lt;/p&gt;
 &lt;p&gt;换图菜单
-&lt;img alt="地图" loading="lazy" src="https://kaish.dev/posts/kep/command/yd_menu.png"&gt;&lt;/p&gt;</description></item></channel></rss>
+&lt;img alt="Image" loading="lazy" src="https://kaish.dev/posts/kep/command/yd_menu.png"&gt;&lt;/p&gt;</description></item></channel></rss>
