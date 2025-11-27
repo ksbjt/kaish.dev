@@ -23,7 +23,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          fetch-depth: 0 # 必须：拉取完整 Git 历史, 否则 Hugo 的 GitInfo 无法获取文件的最后修改时间（Lastmod）
 
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2

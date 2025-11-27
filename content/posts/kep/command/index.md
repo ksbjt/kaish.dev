@@ -1,7 +1,7 @@
 ---
 date: 2025-11-26T16:27:27+08:00
 draft: false
-title: 【开水服】指令帮助
+title: 【开水服】指令预览
 tags:
   - kep
 ---
