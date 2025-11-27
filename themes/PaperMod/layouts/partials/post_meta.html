@@ -5,7 +5,11 @@
 {{- end }}
 
 {{- if ne .Lastmod .Date -}}
-  {{- $scratch.Add "meta" (slice (printf "<span title='%s'>Last Updated %s</span>" (.Lastmod) (.Lastmod.Format "2006-01-02"))) }}
+  {{- with .GitInfo }}
+    {{- $scratch.Add "meta" (slice (printf "<span>Last Updated %s · Commit %s</span>" (.Page.Lastmod.Format "2006-01-02") .AbbreviatedHash)) }}
+  {{- else }}
+    {{- $scratch.Add "meta" (slice (printf "<span>Last Updated %s</span>" (.Page.Lastmod.Format "2006-01-02"))) }}
+  {{- end }}
 {{- end }}
 
 {{- if (.Param "ShowReadingTime") -}}
