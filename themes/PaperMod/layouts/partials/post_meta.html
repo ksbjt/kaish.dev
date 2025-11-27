@@ -21,3 +21,8 @@
 {{- with ($scratch.Get "meta") }}
 {{- delimit . "&nbsp;·&nbsp;" | safeHTML -}}
 {{- end -}}
+
+{{- if gt .Lastmod .Date -}}
+{{- $scratch.Add "meta_keys" (slice "lastmod") -}}
+{{- $scratch.SetInMap "meta_items" "lastmod" (slice "cloud" (.Lastmod | time.Format (default "2006-01-02" site.Params.DateFormat))) -}}
+{{- end }}
