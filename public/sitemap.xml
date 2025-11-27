@@ -2,30 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/kep/help/</loc>
-    <lastmod>2025-11-27T23:50:29+08:00</lastmod>
+    <loc>https://kaish.dev/posts/kep/help/</loc>
+    <lastmod>2025-11-28T00:18:47+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/kep/command/</loc>
-    <lastmod>2025-11-26T19:43:38+08:00</lastmod>
+    <loc>https://kaish.dev/posts/kep/command/</loc>
+    <lastmod>2025-11-28T00:41:19+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/kep/</loc>
-    <lastmod>2025-11-27T23:50:29+08:00</lastmod>
+    <loc>https://kaish.dev/tags/kep/</loc>
+    <lastmod>2025-11-28T00:41:19+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-11-27T23:50:29+08:00</lastmod>
+    <loc>https://kaish.dev/posts/</loc>
+    <lastmod>2025-11-28T00:41:19+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-11-27T23:50:29+08:00</lastmod>
+    <loc>https://kaish.dev/</loc>
+    <lastmod>2025-11-28T00:41:19+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://kaish.dev/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>https://kaish.dev/search/</loc>
     <lastmod>2025-11-26T19:24:04+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/archives/</loc>
+    <loc>https://kaish.dev/archives/</loc>
     <lastmod>2025-11-26T19:24:04+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://kaish.dev/tags/</loc>
     <lastmod>2025-11-26T19:24:04+08:00</lastmod>
   </url>
 </urlset>
