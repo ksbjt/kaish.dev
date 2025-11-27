@@ -1,6 +1,6 @@
 ---
 date: 2025-11-28T01:36:31+08:00
-draft: true
+draft: false
 title: 关于我
 weight: "-1"
 ---

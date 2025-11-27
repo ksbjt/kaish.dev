@@ -34,6 +34,9 @@ params:
 
 menu:
   main:
+    - name: "关于我"
+      url: "/posts/about/"
+      weight: -1
     - name: "搜索文章"
       url: "/search/"
       weight: 1
