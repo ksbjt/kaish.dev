@@ -29,8 +29,7 @@ weight: "1"
 ---
 ### 有哪些训练地图?
 
-服务器有训练脚本的地图都在此合集当中
-https://steamcommunity.com/sharedfiles/filedetails/?id=3292908214
+服务器有训练脚本的地图都在此合集当中 [KepCollection](https://steamcommunity.com/sharedfiles/filedetails/?id=3292908214)
 
 ---
 ### 问: 收费吗?
