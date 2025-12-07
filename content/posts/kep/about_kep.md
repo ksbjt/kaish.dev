@@ -4,7 +4,6 @@ draft: false
 title: 【开水服】CS2 僵尸逃跑
 tags:
   - kep
-weight: "1"
 ---
 ### 问: CS2 还有在开服吗?
 
