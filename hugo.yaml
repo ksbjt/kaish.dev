@@ -68,3 +68,8 @@ outputs:
     - HTML  # 首页生成 HTML 页面
     - RSS   # 首页生成 RSS（PaperMod 搜索功能依赖）
     - JSON  # 首页生成 JSON（PaperMod 站内搜索使用）
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true # 开启 HTML 支持
