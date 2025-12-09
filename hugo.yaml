@@ -42,9 +42,6 @@ params:
     - name: "discord"
       url: "https://discord.com/users/977917095260061697"
 
-    - name: "neteasecloudmusic"
-      url: "https://music.163.com/#/my/m/music/playlist?id=5028688879"
-
 menu:
   main:
     - name: "搜索"
