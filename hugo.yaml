@@ -15,26 +15,35 @@ params:
   defaultTheme: auto          # 默认主题模式：auto=跟随系统, light=白天, dark=黑暗
   disableThemeToggle: false   # 是否禁用主题切换按钮
 
-  showDates: true           # 是否显示文章发布时间（date）
-  showLastMod: true         # 是否显示文章更新时间（lastmod）
-  useLastMod: true          # 若 Front Matter 无 lastmod, 则自动使用 Git 最后提交时间
-  dateFormat: "2006-01-02"  # 日期显示格式（Go 模板格式, 此处为 YYYY-MM-DD）
+  showDates: true             # 是否显示文章发布时间（date）
+  showLastMod: true           # 是否显示文章更新时间（lastmod）
+  useLastMod: true            # 若 Front Matter 无 lastmod, 则自动使用 Git 最后提交时间
+  dateFormat: "2006-01-02"    # 日期显示格式（Go 模板格式, 此处为 YYYY-MM-DD）
 
-  homeInfoParams:           # 首页显示的信息（PaperMod 的 HomeInfo 区块）
-    Title: "HappyEveryDay"  # 首页标题
+  homeInfoParams: # 首页显示的信息（PaperMod 的 HomeInfo 区块）
+    Title: "Kaishui" # 首页标题
     Content: "世上一定有另外一个我, 过着我想要的生活." # 首页描述文本
 
   ShowCodeCopyButtons: true # 启用代码复制按钮
 
   socialIcons: # 主页底部显示的社交图标
+    - name: "qq"
+      url: "https://qm.qq.com/q/IPmTb1ZWwe"
+
     - name: "github"
       url: "https://github.com/ksbjt"
+
     - name: "steam"
       url: "https://steamcommunity.com/profiles/76561199267457975"
+
+    - name: "telegram"
+      url: "https://t.me/kaishuiya"
+
+    - name: "discord"
+      url: "https://discord.com/users/977917095260061697"
+
     - name: "neteasecloudmusic"
       url: "https://music.163.com/#/my/m/music/playlist?id=5028688879"
-    - name: "openlist"
-      url: "https://openlist.kaya.ink"
 
 menu:
   main:
